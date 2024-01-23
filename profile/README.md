@@ -26,5 +26,7 @@ To learn more about low-code GuideBlocks:
 - for Web at https://github.com/contextu-al/airbnb-web
 
 
-<iframe src="https://player.vimeo.com/video/892110184?h=5450aff1d6" width="640" height="400" frameborder="0" allowfullscreen></iframe>
+[![Video](https://i.vimeocdn.com/video/1768561152-e605b806a1b3d931a471131e377904cdbb55b97fcdeeda2bb30882397d4acf1f-d_800x600?r=pad)](https://player.vimeo.com/video/892110184?h=5450aff1d6)
+
+
 
