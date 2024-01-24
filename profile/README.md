@@ -25,11 +25,10 @@ To learn more about low-code GuideBlocks:
 - for Android at https://github.com/contextu-al/FavDish
 - for Web at https://github.com/contextu-al/airbnb-web
 
-
-# [![Video](https://i.vimeocdn.com/video/1768561152-e605b806a1b3d931a471131e377904cdbb55b97fcdeeda2bb30882397d4acf1f-d_800x600?r=pad)](https://player.vimeo.com/video/892110184?h=5450aff1d6)
+This video explains GuideBlocks and Extensibility:
 
 <a href="https://player.vimeo.com/video/892110184?h=5450aff1d6" target="_blank">
-  <img src="https://i.vimeocdn.com/video/1768561152-e605b806a1b3d931a471131e377904cdbb55b97fcdeeda2bb30882397d4acf1f-d_800x600?r=pad" alt="Video Thumbnail">
+  <img src="https://i.vimeocdn.com/video/1768561152-e605b806a1b3d931a471131e377904cdbb55b97fcdeeda2bb30882397d4acf1f-d_800x600?r=pad" alt="Contextual Extensibility Video">
 </a>
 
 
