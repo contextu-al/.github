@@ -10,7 +10,7 @@ An SDK and platform that saves developer time by allowing them to:
 
 GuideBlocks help your App iterate fast and free up developers to work on features instead of engagement:
 
-- Built-in no-code walthroughs, tips, announcements, FAQs, feedback surveys and more.
+- Built-in no-code walkthroughs, tips, announcements, FAQs, feedback surveys and more.
 - Extensible low-code [GuideBlocks](https://guideblocks.org/)
 - Product Adoption audience targeting and analytics
 - Improve User Activation and Retention without resorting to Anti–patterns like Pop-ups and Push Notifications
