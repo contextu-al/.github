@@ -28,7 +28,7 @@ To learn more about low-code [GuideBlocks](https://guideblocks.org/):
 This video explains [GuideBlocks](https://guideblocks.org/) and Extensibility:
 
 <a href="https://player.vimeo.com/video/892110184?h=5450aff1d6" target="_blank">
-  <img src="https://i.vimeocdn.com/video/1768561152-e605b806a1b3d931a471131e377904cdbb55b97fcdeeda2bb30882397d4acf1f-d_800x600?r=pad" alt="Contextual Extensibility Video">
+  <img src="https://i.vimeocdn.com/video/1808896747-121db5c4e2…48235097337fbea7a34ed6452fe6bc4c0-d_295x166?r=pad" alt="Contextual Extensibility Video">
 </a>
 
 
